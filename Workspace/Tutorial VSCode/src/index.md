@@ -1,1 +1,0 @@
-Mañana sigo con git y el tuto de vs code y luego arranco con Javasctipt
